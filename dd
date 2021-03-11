@@ -1,8 +1,0 @@
-line======== &{2 12 } 1}
-line======== &{2 13 func test1() { 3}
-line======== &{0 14        fmt.Println("aaaaaaa") 4}
-line======== &{0 15 } 5}
-line======== &{0 16 func test2() { 6}
-line======== &{2 17        fmt.Println("wwwwwww") 7}
-line======== &{2 18 } 8}
-

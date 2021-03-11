@@ -1,0 +1,10 @@
+line======== &{2 8 func test() { 2}
+line======== &{2 9        fmt.Println("eeee") 3}
+line======== &{2 10 } 5}
+line======== &{2 11 func test1() { 7}
+line======== &{2 12 } 9}
+line======== &{2 13 func test2() { 10}
+line======== &{2 14        fmt.Println("wwwwwww") 11}
+line======== &{0 15        fmt.Println("wwwwwww") 12}
+line======== &{2 16 } 13}
+
