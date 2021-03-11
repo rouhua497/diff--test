@@ -12,5 +12,8 @@ func test() {
 }
 
 func test1() {
+	fmt.Println("aaaaaaa")
+}
+func test2() {
 	fmt.Println("wwwwwww")
 }
